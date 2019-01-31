@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ChatApp:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatApp_war_exploded</output-path>
+    <***REMOVED*** id="***REMOVED***">
+      <element id="javaee-facet-resources" facet="ChatApp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ChatApp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/Downloads/json-20180130.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/java-json.jar" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/com.mysql.jdbc_5.1.5.jar" />
+        </element>
+      </element>
+    </***REMOVED***>
+  </artifact>
+</component>

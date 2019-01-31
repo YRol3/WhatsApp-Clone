@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <***REMOVED*** url="jar://$PROJECT_DIR$/lib/javax.jms.jar!/" />
+      <***REMOVED*** url="jar://$PROJECT_DIR$/lib/javax.transaction.jar!/" />
+      <***REMOVED*** url="jar://$PROJECT_DIR$/lib/javax.annotation.jar!/" />
+      <***REMOVED*** url="jar://$PROJECT_DIR$/lib/javax.resource.jar!/" />
+      <***REMOVED*** url="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/" />
+      <***REMOVED*** url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jar!/" />
+      <***REMOVED*** url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <***REMOVED*** url="jar://$PROJECT_DIR$/lib/javax.ejb.jar!/" />
+      <***REMOVED*** url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
