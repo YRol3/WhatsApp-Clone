@@ -15,11 +15,14 @@ WhatsApp started as an alternative to SMS. Our product now supports sending and 
 WhatsApp was founded by Jan Koum and Brian Acton who had previously spent 20 years combined at Yahoo. WhatsApp joined Facebook in 2014, but continues to operate as a separate app with a laser focus on building a messaging service that works fast and reliably anywhere in the world.
 
 Contacts
+
 <img width="200" height="400" src="https://i.imgur.com/Ux1Xv6P.png"/>
 Conversations
+
 <img width="200" height="400" src="https://i.imgur.com/LqV4FuX.png"/>
 
 Conversation Sample
+
 <img width="200" height="400" src="https://i.imgur.com/SeECjid.jpg"/>
 <img width="200" height="400" src="https://i.imgur.com/bz0SDLD.png"/>
 
