@@ -1,7 +1,7 @@
 # WhatsApp Clone!
 > Server side And Client side of the famous WhatsApp Applicataion
 
-Our App
+## Our App
 1. to stay in touch with friends and family, anytime and anywhere. WhatsApp is free
 2. and offers simple, secure, reliable messaging and calling, available on phones all over the world.
 
