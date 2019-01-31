@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name" translatable="false">WhatsApp</string>
+    <string name="more_messages_notification">more messages</string>
+    <string name="notification_channel_name">General Notifications</string>
+    <string name="notification_channel_description">Here all the apps notifications will come through</string>
+    <string name="in_development">In Development</string>
+    <string name="type_a_message_edit_text">Type a message</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="verify_your_phone_number">Verify your phone number</string>
+    <string name="verify_phone_number_long_description">WhatsApp will send you six digits verification code to yours phone number, Please make sure you enter the digits correctly as well as your phone number below</string>
+    <string name="plus_972" translatable="false">+972</string>
+    <string name="phone_number_hint">Phone number</string>
+    <string name="verification_code_hint">Verification Code</string>
+    <string name="carrier_sms_chargers_may_apply">Carrier SMS chargers may apply</string>
+    <string name="profile">Profile</string>
+    <string name="profile_user_name_long_description">This not your username or pin. This name will be visible to your WhatsApp contacts.</string>
+    <string name="about_and_phone_number">About and phone number</string>
+    <string name="status">Hey there! I am using WhatApp.</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="remove">Remove</string>
+    <string name="server_configurations">Server Configurations</string>
+    <string name="server_ip_address">Server IP Address</string>
+    <string name="server_port">Server Port</string>
+    <string name="confirm">confirm</string>
+    <string name="user_profile">User Profile</string>
+    <string name="server_settings">Server Settings</string>
+    <string name="sms_fail_send">Could not send SMS to this number, Please check the number</string>
+    <string name="send_message_developers">Something went wrong, Please send a message to the app developers</string>
+    <string name="try_again_verification">Try again and make sure your Phone Number is correct</string>
+    <string name="no_coutry_code">Type the number without your country code</string>
+    <string name="phone_number_empty">Phone number can not be empty</string>
+    <string name="try_again_in">Did not received? Retry in</string>
+    <string name="failed_to_verify_phone">Failed to verify phone number</string>
+    <string name="calls">calls</string>
+    <string name="chats">chats</string>
+    <string name="contacts">contacts</string>
+    <string name="ip_set_to">Ip set to:</string>
+    <string name="we_suggest_reopen_app">We suggest to re-open the application</string>
+    <string name="ip_or_port_can_not_be_empty">Ip or Port can not be empty</string>
+
+</resources>

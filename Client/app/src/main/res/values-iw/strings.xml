@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="more_messages_notification">עוד הודעות</string>
+    <string name="notification_channel_name">התראות כלליות</string>
+    <string name="notification_channel_description">כול ההתראות מהאפליקציה מגיעות מכאן</string>
+    <string name="in_development">בפיתוח</string>
+    <string name="type_a_message_edit_text">הקלד הודעה</string>
+    <string name="enter_your_name">הזן שם</string>
+    <string name="cancel">בטל</string>
+    <string name="ok">אשר</string>
+    <string name="verify_your_phone_number">אמת את מספר הפלאפון</string>
+    <string name="verify_phone_number_long_description">ווצאפ ישלח לך שש ספרות לאימות הקוד למספר הפלאפון שלך, אנא שים לב שהספרות שהינך מזין הינם נכונות וכך גם המספר פלאפון שלך</string>
+    <string name="phone_number_hint">מספר פלאפון</string>
+    <string name="verification_code_hint">קוד אימות</string>
+    <string name="carrier_sms_chargers_may_apply">סמס עלול להיות בתשלום בהתאם לחבילת המשתמש</string>
+    <string name="profile">פרופיל</string>
+    <string name="profile_user_name_long_description">זהו לא שם המשתמש שלך או קוד ה-pin שלך. שם זה יהיה גלוי לאנשי הקשר שלך ב-WhatsApp.</string>
+    <string name="about_and_phone_number">אודות ומספר טלפון</string>
+    <string name="status">היי! אני משתמש בווצאפ.</string>
+    <string name="profile_photo">תמונת פרופיל</string>
+    <string name="gallery">גלרייה</string>
+    <string name="camera">מצלמה</string>
+    <string name="remove">הסר תמונה</string>
+    <string name="server_configurations">הגדרות שרת</string>
+    <string name="server_ip_address">כתובת השרת</string>
+    <string name="server_port">פורט השרת</string>
+    <string name="confirm">אשר</string>
+    <string name="user_profile">פרופיל משתמש</string>
+    <string name="server_settings">הגדרות שרת</string>
+    <string name="sms_fail_send">לא הוצלח נסיון שליחת הסמס, אנא וודאו כי המספר תקין</string>
+    <string name="send_message_developers">תקלה חמורה אנא צור קשר עם המפתח</string>
+    <string name="try_again_verification">אנא נסו שוב וודאו כי המספר פלאפון תקין</string>
+    <string name="no_coutry_code">רשום שוב ללא קידומת המדינה</string>
+    <string name="phone_number_empty">מספר הפלאפון לא יכול להיות ריק</string>
+    <string name="try_again_in">לא התקבל עדיין? נסה שוב בעוד</string>
+    <string name="failed_to_verify_phone">לא צלח אימות המספר פלאפון, אנא נסה שוב</string>
+    <string name="calls">שיחות</string>
+    <string name="chats">צ\'אטים</string>
+    <string name="contacts">אנשי קשר</string>
+    <string name="ip_set_to">האייפי שונה ל</string>
+    <string name="we_suggest_reopen_app">אנו ממליצים להיכנס מחדש לאפליקציה</string>
+    <string name="ip_or_port_can_not_be_empty">איפיי או פורא לא יכולים להיות ריקים</string>
+</resources>
