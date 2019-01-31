@@ -20,8 +20,8 @@ Conversations
 <img width="200" height="400" src="https://i.imgur.com/LqV4FuX.png"/>
 
 Conversation Sample
-<img src="https://i.imgur.com/SeECjid.jpg"/>
-<img src="https://i.imgur.com/bz0SDLD.png"/>
+<img width="200" height="400" src="https://i.imgur.com/SeECjid.jpg"/>
+<img width="200" height="400" src="https://i.imgur.com/bz0SDLD.png"/>
 
 ## Installation
 
