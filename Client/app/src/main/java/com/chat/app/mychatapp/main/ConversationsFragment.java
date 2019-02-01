@@ -52,8 +52,8 @@ public class ConversationsFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        ViewGroup ***REMOVED***View = (ViewGroup) inflater.inflate(R.layout.fragment_conversations, container, false);
-        return ***REMOVED***View;
+        ViewGroup rootView = (ViewGroup) inflater.inflate(R.layout.fragment_conversations, container, false);
+        return rootView;
     }
 
     @Override

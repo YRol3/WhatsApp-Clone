@@ -15,8 +15,8 @@ public class DB {
     public static Connection getConn() throws SQLException {
         if(conn == null){
             String connString = "jdbc:mysql://localhost:3306/chat_db?characterEncoding=utf8";
-            String userName = "***REMOVED***";
-            String password = "***REMOVED***";
+            String userName = "root";
+            String password = "08041996";
             DriverManager.registerDriver(new com.mysql.jdbc.Driver());
             conn = DriverManager.getConnection(connString, userName, password);
         }

@@ -6,9 +6,9 @@
         <descriptors>
           <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
         </descriptors>
-        <web***REMOVED***s>
-          <***REMOVED*** url="file://$MODULE_DIR$/web" relative="/" />
-        </web***REMOVED***s>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web" relative="/" />
+        </webroots>
       </configuration>
     </facet>
   </component>
@@ -23,18 +23,18 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <***REMOVED*** url="jar://$MODULE_DIR$/java-json.jar!/" />
+          <root url="jar://$MODULE_DIR$/java-json.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <***REMOVED*** url="jar://$MODULE_DIR$/java-json.jar!/" />
+          <root url="jar://$MODULE_DIR$/java-json.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <***REMOVED*** url="jar://$MODULE_DIR$/lib/com.mysql.jdbc_5.1.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/com.mysql.jdbc_5.1.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

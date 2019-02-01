@@ -72,14 +72,14 @@ public class ContactsFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        ViewGroup ***REMOVED***View = (ViewGroup) inflater.inflate(R.layout.fragment_contacts, container, false);
-        contactsView = ***REMOVED***View.findViewById(R.id.contactsRecyclerView);
-        permissionLayout = ***REMOVED***View.findViewById(R.id.permissionLayout);
-        permissionButton = ***REMOVED***View.findViewById(R.id.permissionRequest);
+        ViewGroup rootView = (ViewGroup) inflater.inflate(R.layout.fragment_contacts, container, false);
+        contactsView = rootView.findViewById(R.id.contactsRecyclerView);
+        permissionLayout = rootView.findViewById(R.id.permissionLayout);
+        permissionButton = rootView.findViewById(R.id.permissionRequest);
         layoutManger = new LinearLayoutManager(getContext());
         contactsView.setLayoutManager(layoutManger);
         contactsView.setAdapter(adapter);
-        return ***REMOVED***View;
+        return rootView;
     }
 
     @Override

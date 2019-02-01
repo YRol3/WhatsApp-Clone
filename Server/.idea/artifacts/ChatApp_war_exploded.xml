@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="ChatApp:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/ChatApp_war_exploded</output-path>
-    <***REMOVED*** id="***REMOVED***">
+    <root id="root">
       <element id="javaee-facet-resources" facet="ChatApp/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -14,6 +14,6 @@
           <element id="file-copy" path="$PROJECT_DIR$/lib/com.mysql.jdbc_5.1.5.jar" />
         </element>
       </element>
-    </***REMOVED***>
+    </root>
   </artifact>
 </component>
