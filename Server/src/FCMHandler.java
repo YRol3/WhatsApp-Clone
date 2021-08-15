@@ -14,7 +14,7 @@ import java.util.List;
 
 public class FCMHandler  {
     //fcm legacy key
-    public static final String fcm_key = "AIzaSyA4f0Z_hzbTuEdEVLnCMRYzNDwQA-DV1Us";
+    public static final String fcm_key = "***************************************";
     public static void sendNewMessage(Connection connection, Message message){
         System.out.println("in send message");
         List<String> participants = null;
